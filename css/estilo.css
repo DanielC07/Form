@@ -1,0 +1,78 @@
+.body{
+    margin: 50%;
+    padding: auto;
+
+}
+.h1{
+    color: white;
+}
+.enviar:hover{
+color: black;
+background-color: rgb(0, 236, 20);
+cursor: pointer;
+}
+.label{
+    font-family: Arial;
+    color: white;
+}
+.Registro{
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+}
+.Registro:hover{
+    color: rgb(0, 236, 20);
+}
+.input{
+    width: 340px;
+    height: 20px;
+    border: none;
+    background: transparent;
+    outline: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    font-size: 16px;
+}
+.tabla{
+    width: 350px;
+    line-height: 20px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    padding: 70px 30px;
+}
+.enviar{
+    width: 100px;
+    height: 25px;
+    background-color: blueviolet;
+    border: black;
+    border-radius: 25px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.enviar1{
+    width: 150px;
+    height: 25px;
+    background-color: rgb(0, 236, 20);
+    border: black;
+    border-radius: 25px;
+}
+.enviar1:hover{
+    color: black;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+.label{
+    color: #fff;
+    font-size: 16px;
+}
+.label1{
+    color: #fff;
+    font-size: 12px;
+}

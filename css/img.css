@@ -1,0 +1,32 @@
+.table{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.marquee{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(0, 236, 20);
+}
+.h1{
+    color:  white;
+}
+.img1{
+    height: 500px;
+    width: 500px;
+}
+.img{
+    height: 250px;
+    width: 500;
+}
+.enviar1{
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+    background-color: rgb(0, 236, 20);
+    border: black;
+    border-radius: 25px;
+}
+.enviar1:hover{
+    color: black;
+    background-color: blueviolet;
+    cursor: pointer;
+}
